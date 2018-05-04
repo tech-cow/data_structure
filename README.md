@@ -30,7 +30,7 @@
 > python >= 3
 
 ## Author
-[![Antoni Kepinski](https://avatars3.githubusercontent.com/u/6414741?s=100&v=4)](http://yuzhoujr.com)
+[![Yu Zhou](https://avatars3.githubusercontent.com/u/6414741?s=100&v=4)](http://yuzhoujr.com)
 ---|
 [Yu Zhou :rocket:](http://yuzhoujr.com)
 
