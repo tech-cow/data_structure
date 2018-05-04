@@ -14,7 +14,7 @@
 
 </p>
 
-|val 👉| List [📇](#list-📇) | Hash [📖](#hash-📖)|Stack [🍰](#stack-🍰) | Queue [:couple:](#queue-couple) |Graph [⛩️](#graph-⛩️)| Linked List  [🥓](#linkedlist-🥓)| Tree [🌴](tree-🌴)| BST [🌳](#bst-🌳)
+|val 👉| List [📇](#list-📇) | Hash [📖](#hash-📖)| Stack [🍰](#stack-🍰) | Queue [:couple:](#queue-couple) | Graph [⛩️](#graph-⛩️)|  Linked List  [🥓](#linkedlist-🥓)| Tree [🌴](tree-🌴)| BST [🌳](#bst-🌳)
 | :--------: | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: |
 || 0 |1 | 2 | 3 | 4 | 5 | 6 | 7 |
 
