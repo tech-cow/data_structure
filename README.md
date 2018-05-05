@@ -14,7 +14,7 @@
 
 </p>
 
-|val 👉|  List [:wavy_dash:](#list-:wavy_dash:) | Hash [:book: ](#hash-:book: ) | Stack [:cake: ](#stack-:cake: ) | Queue [:factory: ](#queue-:factory: ) | Graph [:foggy:	](#graph-:foggy:	) |  Linked List  [:link: ](#linkedlist-:link: ) | Tree [:palm_tree: ](tree-:palm_tree: ) | BST [:deciduous_tree: ](#bst-:deciduous_tree: )
+|val 👉|  List [:wavy_dash:](#list-:wavy_dash:) | Hash [:factory:  ](#hash-:book: ) | Stack [:cake: ](#stack-:cake: ) | Queue [:factory: ](#queue-:factory: ) | Graph [:foggy:	](#graph-:foggy:	) |  Linked List  [:link: ](#linkedlist-:link: ) | Tree [:palm_tree: ](tree-:palm_tree: ) | BST [:deciduous_tree: ](#bst-:deciduous_tree: )
 | :--------: | :--------: |  :--------: |  :--------: |  :--------: | :---------: | :---------:| :---------: | :-------: |
 || **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** |
 
